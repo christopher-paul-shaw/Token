@@ -1,6 +1,5 @@
 # Summary
-
-
+Generate, Validate and Destroy tokens.
 
 # Usage
 
